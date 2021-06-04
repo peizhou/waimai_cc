@@ -1,8 +1,3 @@
-# waimai_cc
-特价电影票+美团饿了么外卖返利CPS分销返利项目实操
-
-
-
 # waimai_cps_liebian
 
 # 外卖红包小程序 美团外卖小程序 饿了么外卖小程序 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
@@ -18,7 +13,7 @@
 
 ## 不裂变版本体验
 
-   <img width="200" src="https://img.mybei.cn/gh_f9a7001e4c8f_258%20%281%29.jpg"/>
+   <img width="200" src="https://img.mybei.cn/WechatIMG14.jpeg"/>
 
 ## 使用步骤
 
@@ -32,9 +27,9 @@
  ```https://p.mybei.cn;https://xcf.haozii.com; ```
 
 - 小程序管理后台配置你的赚钱链接
-  后台地址： http://q.mybei.cn 账号密码，添加微信：mybei95 开通
+  后台地址： http://q.mybei.cn 账号密码，添加微信：mybei94 开通
 
-   <img width="600" src="https://img.mybei.cn/1611890058134.jpg"/>
+   <img width="600" src="https://img.mybei.cn/zp_qr.png"/>
 
 
 
@@ -53,8 +48,7 @@
 # 上线案例
 
 <div>
-<img width="120" src="https://img.mybei.cn/gh_6daae1857324_258_11.jpg"/>
-<img width="120" src="https://img.mybei.cn/gh_a883a770c371_258_1111.jpg"/>
+<img width="120" src="https://img.mybei.cn/gh_a2da4e276f80_258.jpg"/>
 </div>
 
 # 后台地址
@@ -98,7 +92,7 @@ http://q.mybei.cn/
 
 # 联系方式
 
-<img width="600" src="https://img.mybei.cn/WechatIMG3.jpeg"/>
+<img width="600" src="https://img.mybei.cn/zp_qr.png"/>
 
 
 # 最后总结下外卖项目的非常重要的点
@@ -112,7 +106,7 @@ http://q.mybei.cn/
 4.不要脸持续推。
 
 需要裂变的小程序各位老板欢迎联系我，有什么不能谈的？
-微信：mybei95
+微信：mybei94
 
 裂变小程序介绍官网：http://mybei.cn
 
