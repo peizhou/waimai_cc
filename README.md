@@ -2,54 +2,43 @@
 
 # 外卖红包小程序 美团外卖小程序 饿了么外卖小程序 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
 
-# 项目介绍
+# 饿了么、美团优惠开发(外卖cps,三级裂变源码)
 
-- <a href="https://mp.weixin.qq.com/s/K2rjn4zg5-COfyuVmeTDnw">外卖cps淘客项目，被动引流月赚1w的赚钱玩法</a>
+# 源码或搭建
+# [http://y.mybei.cn](y.mybei.cn)
 
-- <a href="https://mp.weixin.qq.com/s/t9Lmcqc6i8c2n-50cU6M9g">外卖淘客CPS项目复盘与演进</a>
+# 截图
+  ![在这里插入图片描述](https://img-blog.csdnimg.cn/1a01dfb62b9442dfae35b03a665775ce.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzU2OTU3NjEz,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9dc8bd8eae414a5aa0fbcc18279d8793.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzU2OTU3NjEz,size_16,color_FFFFFF,t_70#pic_center)
 
 
-# 不裂变的版本免费提供
+# 功能列表
 
-## 不裂变版本体验
+- 特价电影票
+- 饿了么外卖（3个红包）
+- 美团外卖
+- 美团优选（1分钱买菜）
+- 购物返利（淘宝，拼多多，京东）
+- 话费优惠充值（92折，慢充）
+- 火车票优惠
+- 滴滴打车优惠
+- 小程序广告收益（流量主）
+- 公众号绑定
 
-   <img width="200" src="https://img.mybei.cn/WechatIMG14.jpeg"/>
+- 更多功能...
 
-## 使用步骤
-
-- 下载本仓库代码 或者 git clone git@github.com:peizhou/waimai_cps_liebian.git
-
-- 修改为你自己的微信小程序，打开 /dist/pages/ele/index.js 搜索 
-```var WXAppID = 'wx5dee831b44329220'```
-换成你自己的微信小程序appid
-
-- 小程序后台添加 request的域名：
- ```https://p.mybei.cn;https://xcf.haozii.com; ```
-
-- 小程序管理后台配置你的赚钱链接
-  后台地址： http://q.mybei.cn 账号密码，添加微信：mybei94 开通
-
-   <img width="600" src="https://img.mybei.cn/zp_qr.png"/>
+  - <img src="https://img.mybei.cn/zp_qr.png" width="200px"/>
 
 
 
-# 带二级裂变功能
-
-# 技术栈
-
-+ 服务端api基于Ｎode.js+ThinkJS+MySQL
-+ 后台管理 基于VUE.js+element-ui
+# 作者联系方式
+  - <img src="https://img.mybei.cn/zp_qr.png" width="200px"/>
 
 
-# 项目简介
+- 交流交流感情也好呀~
+- 代搭建，源码都可以出，好谈~
+- 转介绍，代理，都行，作者不会亏待你~
 
-<a href="http://mybei.cn/">项目简介，项目官网 http://mybei.cn/ </a>
-
-# 上线案例
-
-<div>
-<img width="120" src="https://img.mybei.cn/gh_a2da4e276f80_258.jpg"/>
-</div>
 
 # 后台地址
 
@@ -69,18 +58,6 @@ http://q.mybei.cn/
 
 至于为什么不再往下做分裂，怕包吃包住！
 
-# 项目截图
-
-<div>
-<img width="600" src="https://img.mybei.cn/WechatIMG113.jpeg"/>
-
-<img width="600" src="https://img.mybei.cn/WechatIMG114.jpeg"/>
-
-<img width="600" src="https://img.mybei.cn/WechatIMG115.jpeg"/>
-
-<img width="600" src="https://img.mybei.cn/WechatIMG116.jpeg"/>
-
-</div>
 
 # 后台截图
 <img width="600" src="https://img.mybei.cn/WechatIMG122.png"/>
